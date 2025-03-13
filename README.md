@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I mainly code in Go. However day to day I work in Linux with Docker, Kubernetes, Helm, Git, Postgres, Mysql, Pipelines, etc.
+
+If you have any questions or are interested in a collaboration, let me know at [mihai@devops-experts.me](mailto:mihai@devops-experts.me).
+
 <!--
 **mehiX/mehiX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,6 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
 ![mehiX github stats](https://github-readme-stats.vercel.app/api?username=mehiX&show_icons=true&theme=radical)
+-->
